@@ -1,10 +1,10 @@
 new hoverEffect({
     parent:document.querySelector('.distortion'),
     intensity: 1,
-    image1: './Img13.jpg',
-    image2: './Img14.jpg',
+    image1: './no3.jpg',
+    image2: './no5.jpg',
     angle: Math.PI / 4,
-    speedIn:1.3,
-    speedOut: .9,
-    displacementImage: './patt3.jpg'
+    speedIn:.5,
+    speedOut: .5,
+    displacementImage: './stripe1.png'
 });
